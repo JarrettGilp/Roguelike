@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: ac51de6b1f6c44b42a245fec0f546194
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6782
+        width: 1801
+        height: 1355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a39778c99cb8749a005f58cdbf5767
+      internalID: -954819058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_1
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 6737
+        width: 1799
+        height: 1400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf89855cc96414c849e3591da0d118
+      internalID: 31585379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_2
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 7465
+        width: 846
+        height: 598
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924ae50a1e86c9409c93b3af9931f63
+      internalID: -1607127865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_3
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 7465
+        width: 847
+        height: 598
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4ea223cd91c3419d11874de42ccf0
+      internalID: 1634829671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_4
+      rect:
+        serializedVersion: 2
+        x: 6297
+        y: 7205
+        width: 932
+        height: 972
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45d6131fa13f44f91d3243337a0bcc
+      internalID: -851029539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_5
+      rect:
+        serializedVersion: 2
+        x: 7563
+        y: 7734
+        width: 240
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee359d7ad43cdda458f8076c1007d511
+      internalID: -1070320173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_6
+      rect:
+        serializedVersion: 2
+        x: 7909
+        y: 7693
+        width: 171
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5e7a029a20e34f93a11a13e56f1d0
+      internalID: 1434789068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_7
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 6696
+        width: 904
+        height: 610
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532960aab34f5904482715bccb275775
+      internalID: 449575154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_8
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 6668
+        width: 903
+        height: 614
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7315ee9d25ffa04b9ad30b3cabcf75b
+      internalID: 252761298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_9
+      rect:
+        serializedVersion: 2
+        x: 7543
+        y: 7270
+        width: 488
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206181389b46d54296214d1cd3cd5af
+      internalID: 667429662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_10
+      rect:
+        serializedVersion: 2
+        x: 6297
+        y: 6086
+        width: 932
+        height: 968
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00b0ad5305d201408e4935cecae1fd3
+      internalID: -1344134668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_11
+      rect:
+        serializedVersion: 2
+        x: 7429
+        y: 7018
+        width: 305
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ef4eeb1527dcc42bffcaef620c8e2d
+      internalID: 2123390499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_12
+      rect:
+        serializedVersion: 2
+        x: 7852
+        y: 7014
+        width: 309
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205924ba9126b3e45b1fe5ea01ccc068
+      internalID: 2052013818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5146
+        width: 1801
+        height: 1355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e890c3217798914da6b1443fb6469eb
+      internalID: 470580338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_14
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 5101
+        width: 1799
+        height: 1400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e83a88f8a586b45ab3da9e5460ad01
+      internalID: -724368012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_15
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 6082
+        width: 655
+        height: 402
+      alignment: 9
+      pivot: {x: 0.1187172, y: 0.24761933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea51e9d7875f62439307c8848c6d6b9
+      internalID: -1511973151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_16
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 6037
+        width: 594
+        height: 452
+      alignment: 9
+      pivot: {x: 0.88102293, y: 0.8280613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839792d1a6a76e14288a0f43c2d55b81
+      internalID: 1112873668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_17
+      rect:
+        serializedVersion: 2
+        x: 7539
+        y: 6448
+        width: 256
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682db752f97ed046b0278c43d338d1a
+      internalID: 107878805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_18
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 6440
+        width: 236
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90a7f05e8e4e544955d83392917296
+      internalID: -2046741347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_19
+      rect:
+        serializedVersion: 2
+        x: 7530
+        y: 6012
+        width: 489
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fef58e9e28bf5e4b9204926f00eece0
+      internalID: 272767470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_20
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 5349
+        width: 594
+        height: 450
+      alignment: 9
+      pivot: {x: 0.86788374, y: 0.81217664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c4586aa2fbaa74fb757a42dc439952
+      internalID: 646396742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_21
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 5463
+        width: 655
+        height: 407
+      alignment: 9
+      pivot: {x: 0.118716456, y: 0.25071982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c77473f0fa5d4db74f3b0281cf51c
+      internalID: 1530602022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_22
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 5227
+        width: 871
+        height: 671
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b837fd10bfdc1648a7d52759f1c9f28
+      internalID: -258900132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_23
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 5227
+        width: 769
+        height: 663
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb46d343f3525b74e8c4e4c9a40f26a2
+      internalID: -1763255876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_24
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 4731
+        width: 724
+        height: 398
+      alignment: 9
+      pivot: {x: 0.12271641, y: 0.3039109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7369f30b095a4448d9a8a073846fb0
+      internalID: -1931484692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_25
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 4788
+        width: 740
+        height: 398
+      alignment: 9
+      pivot: {x: 0.12032702, y: 0.24508284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80616d85614b05a478c8ce9af4e46454
+      internalID: -24702046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_26
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 4332
+        width: 871
+        height: 671
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a081539621a104f887c11c848437ba
+      internalID: -213083458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_27
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 4332
+        width: 769
+        height: 663
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a4867a068316c4d85afc54d4b813b8
+      internalID: 975268129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_28
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 3481
+        width: 769
+        height: 664
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9900bb0300b9447aabf5f070ff6e4d
+      internalID: 1989540069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_29
+      rect:
+        serializedVersion: 2
+        x: 7152
+        y: 3481
+        width: 871
+        height: 676
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e3811a40874e84d90fcf90a70646c8
+      internalID: -1864979629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_30
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 2586
+        width: 769
+        height: 663
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbadf8aeae9ce6b45b306ec3072a1e80
+      internalID: 1886417546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand Gun Assets-01-01-01_31
+      rect:
+        serializedVersion: 2
+        x: 7152
+        y: 2586
+        width: 871
+        height: 675
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e209e3141bfc43aa59bdf3f0a2ade
+      internalID: -807134166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hand Gun Assets-01-01-01_0: -954819058
+      Hand Gun Assets-01-01-01_1: 31585379
+      Hand Gun Assets-01-01-01_10: -1344134668
+      Hand Gun Assets-01-01-01_11: 2123390499
+      Hand Gun Assets-01-01-01_12: 2052013818
+      Hand Gun Assets-01-01-01_13: 470580338
+      Hand Gun Assets-01-01-01_14: -724368012
+      Hand Gun Assets-01-01-01_15: -1511973151
+      Hand Gun Assets-01-01-01_16: 1112873668
+      Hand Gun Assets-01-01-01_17: 107878805
+      Hand Gun Assets-01-01-01_18: -2046741347
+      Hand Gun Assets-01-01-01_19: 272767470
+      Hand Gun Assets-01-01-01_2: -1607127865
+      Hand Gun Assets-01-01-01_20: 646396742
+      Hand Gun Assets-01-01-01_21: 1530602022
+      Hand Gun Assets-01-01-01_22: -258900132
+      Hand Gun Assets-01-01-01_23: -1763255876
+      Hand Gun Assets-01-01-01_24: -1931484692
+      Hand Gun Assets-01-01-01_25: -24702046
+      Hand Gun Assets-01-01-01_26: -213083458
+      Hand Gun Assets-01-01-01_27: 975268129
+      Hand Gun Assets-01-01-01_28: 1989540069
+      Hand Gun Assets-01-01-01_29: -1864979629
+      Hand Gun Assets-01-01-01_3: 1634829671
+      Hand Gun Assets-01-01-01_30: 1886417546
+      Hand Gun Assets-01-01-01_31: -807134166
+      Hand Gun Assets-01-01-01_4: -851029539
+      Hand Gun Assets-01-01-01_5: -1070320173
+      Hand Gun Assets-01-01-01_6: 1434789068
+      Hand Gun Assets-01-01-01_7: 449575154
+      Hand Gun Assets-01-01-01_8: 252761298
+      Hand Gun Assets-01-01-01_9: 667429662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
