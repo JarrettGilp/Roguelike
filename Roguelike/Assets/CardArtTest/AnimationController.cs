@@ -35,6 +35,11 @@ public class AnimationController : MonoBehaviour
         }
     }
 
+    public void Shoot()
+    {
+        Hand.Instance.Shoot();
+    }
+
     void HandleMovementInput()
     {
         moveInput = Vector2.zero;
