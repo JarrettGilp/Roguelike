@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 8c2d79b03d8090c4a9af73348a6cf19e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pip_idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1284
+        width: 309
+        height: 327
+      alignment: 9
+      pivot: {x: 0.13517487, y: 0.013969025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970b38b2a3e22e04bb23f7746ced3951
+      internalID: -2036457010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1282
+        width: 309
+        height: 332
+      alignment: 9
+      pivot: {x: 0.18302073, y: 0.022266066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25944d4d704b2634796c895b71c9b6f6
+      internalID: 122234065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1284
+        width: 303
+        height: 324
+      alignment: 9
+      pivot: {x: 0.20114066, y: 0.022815846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5559f5bf7b49f4e958b21f02db71f7
+      internalID: -1574213117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1284
+        width: 302
+        height: 325
+      alignment: 9
+      pivot: {x: 0.23074806, y: 0.028431866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9559cacd9045a14bb9690155ec07aad
+      internalID: 1844303308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1281
+        width: 323
+        height: 317
+      alignment: 9
+      pivot: {x: 0.25969684, y: 0.00000038507986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98ea14a5986da4685cdaa3732835ac
+      internalID: -756217127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1289
+        width: 302
+        height: 323
+      alignment: 9
+      pivot: {x: 0.23074806, y: 0.017165052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4027927c3a3f374db06e57838564515
+      internalID: 681247157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 942
+        width: 301
+        height: 321
+      alignment: 9
+      pivot: {x: 0.21143425, y: 0.028785966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41290195991946540a453647beaabd92
+      internalID: -1705318034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 942
+        width: 304
+        height: 331
+      alignment: 9
+      pivot: {x: 0.1899656, y: 0.016749818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f08fb64548654b8a661827302da44
+      internalID: -1498401218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 946
+        width: 305
+        height: 319
+      alignment: 9
+      pivot: {x: 0.18492271, y: 0.0057935566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67efa21d91570794a869e5cfe3ed1a1a
+      internalID: -1076951741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 934
+        width: 303
+        height: 328
+      alignment: 9
+      pivot: {x: 0.13405013, y: 0.005634587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92999b6cb74a39468150c8cca6b97a5
+      internalID: -905641353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 941
+        width: 306
+        height: 323
+      alignment: 9
+      pivot: {x: 0.10744102, y: 0.017164862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccd766cc6365149b5fecdec56f2ea6
+      internalID: -1697913207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 939
+        width: 304
+        height: 312
+      alignment: 9
+      pivot: {x: 0.104857996, y: 0.017770033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158faf89a127dc4aa22f0dc6a70887d
+      internalID: -1506108151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 585
+        width: 304
+        height: 297
+      alignment: 9
+      pivot: {x: 0.013671336, y: 0.0062225033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97986494d5b290a4f9ca3c45e2848a44
+      internalID: 382118389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 575
+        width: 346
+        height: 292
+      alignment: 9
+      pivot: {x: 0.024634918, y: -0.012657479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc1ad1325bcc444948265a8b8990e8
+      internalID: 71177143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 574
+        width: 320
+        height: 302
+      alignment: 9
+      pivot: {x: 0.04376297, y: 0.006119684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420f652c9df26854282f5fc80e094bb4
+      internalID: -608997425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pip_idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 558
+        width: 315
+        height: 321
+      alignment: 9
+      pivot: {x: 0.10692313, y: 0.011514539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc20155589c8706468b2313d036308fb
+      internalID: -1798363910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pip_idle_sheet_0: -2036457010
+      Pip_idle_sheet_1: 122234065
+      Pip_idle_sheet_10: -1697913207
+      Pip_idle_sheet_11: -1506108151
+      Pip_idle_sheet_12: 382118389
+      Pip_idle_sheet_13: 71177143
+      Pip_idle_sheet_14: -608997425
+      Pip_idle_sheet_15: -1798363910
+      Pip_idle_sheet_2: -1574213117
+      Pip_idle_sheet_3: 1844303308
+      Pip_idle_sheet_4: -756217127
+      Pip_idle_sheet_5: 681247157
+      Pip_idle_sheet_6: -1705318034
+      Pip_idle_sheet_7: -1498401218
+      Pip_idle_sheet_8: -1076951741
+      Pip_idle_sheet_9: -905641353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
