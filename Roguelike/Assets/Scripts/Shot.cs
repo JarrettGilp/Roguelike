@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -13,6 +14,7 @@ public class Shot: MonoBehaviour
     public Material shotShader;
     //public Renderer rend;
     private Rigidbody2D rb;
+
 
     private void Awake()
     {

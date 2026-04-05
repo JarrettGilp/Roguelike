@@ -16,6 +16,7 @@ public class DisplayCard : MonoBehaviour
     private void Start()
     {
         clipSize = card.clipSize;
+        cardImage.sprite = card.cardSprite;
         UpdateClip();
     }
 

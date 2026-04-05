@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class AnimationController : MonoBehaviour
 {
+    public static AnimationController instance;
+
     public Animator main;
     public Animator legs;
 
@@ -9,6 +11,7 @@ public class AnimationController : MonoBehaviour
 
     private Vector2 moveInput;
     private Vector2 shootInput;
+    public int shotDir;
 
     private int moveFacing = 1;
 
@@ -17,6 +20,17 @@ public class AnimationController : MonoBehaviour
 
     // Stores last valid shoot direction
     private Vector2 lockedShootDirection = Vector2.right;
+
+    private void Start()
+    {
+        if(instance == null)
+        {
+            instance = this;
+        } else
+        {
+            Destroy(this);
+        }
+    }
 
     void Update()
     {

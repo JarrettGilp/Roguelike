@@ -5,6 +5,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "New Card", menuName = "Card")]
 public class Card : ScriptableObject
 {
+    public Sprite cardSprite;
     public int clipSize;
     public ShotData shotData;
     public Color cardColor;
