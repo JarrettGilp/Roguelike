@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb35e3d605391bd4d8bd9c4ed9ee8762, type: 3}
   m_Name: 5_Spades_Card
   m_EditorClassIdentifier: 
+  cardSprite: {fileID: -3538047447944488856, guid: fd90010ba2b8746359c2f503c5cf6c3a, type: 3}
   clipSize: 5
   shotData:
     speed: 5

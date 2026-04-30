@@ -11,7 +11,8 @@ public class Hand : MonoBehaviour
     public int currentCardIndex = 0;
 
     public ShotPool pool;
-
+    private AudioSource cardAudioSource;
+    public AudioSource shotAudioSource;
 
     private void Start()
     {
@@ -23,6 +24,8 @@ public class Hand : MonoBehaviour
         {
             Instance = this;
         }
+
+        cardAudioSource = GetComponent<AudioSource>();
     }
 
     public void Shoot()
@@ -39,6 +42,8 @@ public class Hand : MonoBehaviour
 
                 shot.Initialize(cards[currentCardIndex].card.shotData);
                 shot.Fire();
+
+                shotAudioSource.Play();
 
                 cards[currentCardIndex].currentShotNumber--;
                 cards[currentCardIndex].UpdateClip();
@@ -59,6 +64,7 @@ public class Hand : MonoBehaviour
     public void Reload(int cardIndex)
     {
         cards[cardIndex].currentShotNumber = cards[cardIndex].clipSize;
+        cardAudioSource.Play();
     }
 
     public void SwitchToNextCard()
